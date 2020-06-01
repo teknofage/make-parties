@@ -1,0 +1,27 @@
+{
+  "name": "make-parties",
+  "version": "1.0.0",
+  "description": "event-manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teknofage/make-parties.git"
+  },
+  "keywords": [
+    "events",
+    "Node",
+    "Javascript"
+  ],
+  "author": "teknofage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teknofage/make-parties/issues"
+  },
+  "homepage": "https://github.com/teknofage/make-parties#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
